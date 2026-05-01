@@ -8,3 +8,14 @@ nav a {
     text-decoration: none;
     color: blue;
 }
+body {
+    background-color: #f0f8ff; /* light blue background */
+}
+
+h1 {
+    color: #1f3952; /* dark blue/gray */
+}
+
+p {
+    color: #333; /* readable dark text */
+}
