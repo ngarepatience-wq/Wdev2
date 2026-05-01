@@ -8,14 +8,11 @@ nav a {
     text-decoration: none;
     color: blue;
 }
-body {
-    background-color: #71aadc; /* light blue background */
+nav a:hover {
+    text-decoration: underline;
 }
-
-h1 {
-    color: #2f5d89; /* dark blue/gray */
-}
-
-p {
-    color: #b35454; /* readable dark text */
+.highlight {
+    color: rgb(207, 77, 77);
+    background-color: #0077cc;
+    padding: 10px;
 }
