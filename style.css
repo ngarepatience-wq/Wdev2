@@ -9,13 +9,13 @@ nav a {
     color: blue;
 }
 body {
-    background-color: #f0f8ff; /* light blue background */
+    background-color: #71aadc; /* light blue background */
 }
 
 h1 {
-    color: #1f3952; /* dark blue/gray */
+    color: #2f5d89; /* dark blue/gray */
 }
 
 p {
-    color: #333; /* readable dark text */
+    color: #b35454; /* readable dark text */
 }
